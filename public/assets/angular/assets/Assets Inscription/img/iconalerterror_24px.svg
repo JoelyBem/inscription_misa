@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.8117647 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+    </filter>
+    <path d="M21.25 0C9.52 0 0 9.52 0 21.25C0 32.98 9.52 42.5 21.25 42.5C32.98 42.5 42.5 32.98 42.5 21.25C42.5 9.52 32.98 0 21.25 0ZM23.375 31.875L19.125 31.875L19.125 27.625L23.375 27.625L23.375 31.875ZM23.375 23.375L19.125 23.375L19.125 10.625L23.375 10.625L23.375 23.375Z" transform="translate(4.25 4.25)" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="iconalerterror_24px" filter="url(#filter_1)">
+    <path d="M21.25 0C9.52 0 0 9.52 0 21.25C0 32.98 9.52 42.5 21.25 42.5C32.98 42.5 42.5 32.98 42.5 21.25C42.5 9.52 32.98 0 21.25 0ZM23.375 31.875L19.125 31.875L19.125 27.625L23.375 27.625L23.375 31.875ZM23.375 23.375L19.125 23.375L19.125 10.625L23.375 10.625L23.375 23.375Z" transform="translate(4.25 4.25)" id="-↳Color" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
